@@ -1,0 +1,6 @@
+rn i dont know how to get back from this command
+just got the idea to how to use this box 
+first we have to write something on it to show it in notepad
+now i got some idea to find directory and get inside of thier subfolder
+also u can roll back into its previous folder using cd cd- or cd.. or cd or last cd/ write some thing
+
